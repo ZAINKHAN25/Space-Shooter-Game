@@ -31,7 +31,8 @@ This game is a basic shooter game where the player controls a spaceship using th
 
 ## Screenshots
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Screenshot 2024-02-08 195231](https://github.com/ZAINKHAN25/Space-Shooter-Game/assets/121414309/f816dfcc-0c4b-431c-97fc-d2fdf1806009)
+
 
 ## Dependencies
 
